@@ -27,7 +27,7 @@ The usage is very simple:
 EventCenter.Emit(eventName);
 To emit an event named eventName. You don’t need to initialize any event.
 eventName is a string.
-3.IN event linsten class, call
+3.IN event listener class, call
 EventCenter.On(eventName);
 When you want to start listening to the event named eventName. Usually called in onEnable().
 And call
