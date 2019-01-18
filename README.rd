@@ -1,7 +1,7 @@
 EventCenter
 Ge Zhu
 
-This is a script that helps making more orgnized events in Unity. It can only handle events that take no arguments and return null for now. I think it is difficult to create a clean solution that can handle all the argument and return type in C# -.- The idea comes from the implementation of EventTarget class in Cocos Creator.
+This is a script that helps making more organized events in Unity. It can only handle events that take no arguments and return null for now. I think it is difficult to create a clean solution that can handle all the argument and return type in C# -.- The idea comes from the implementation of EventTarget class in Cocos Creator.
 
 Features:
 
